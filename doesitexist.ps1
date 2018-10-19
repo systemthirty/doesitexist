@@ -14,7 +14,7 @@
 #       during the previous run (automatically deleted on subsequent executions 
 #       but can be copied or renamed befhorehand to become the $ComputerList for 
 #       the next run.
-# $FaileFileList - a tab delimited list of files that couldn't be deleted (auto-
+# $FailedFileList - a tab delimited list of files that couldn't be deleted (auto-
 #       matically deleted each time this script executes).  The headers fields
 #       are "Computer", "FilePath", and "UNC".
 #
